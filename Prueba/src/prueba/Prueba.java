@@ -4,6 +4,7 @@ public class Prueba {
 
     public static void main(String[] args) {
         System.out.println("Hola Mundo xd");
+        System.out.append("somos los mejores de ingenieria de sistemas");
     }
     
 }
